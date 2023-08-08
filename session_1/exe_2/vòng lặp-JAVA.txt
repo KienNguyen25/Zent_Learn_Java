@@ -1,0 +1,3 @@
+vòng lặp for => sử dụng khi biết trước số vòng lặp bao lần
+Do_While => sử dụng ít nhất 1 lần lặp
+While => chỉ cần biết điều kiện dừng
