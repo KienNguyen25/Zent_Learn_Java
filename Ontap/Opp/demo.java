@@ -45,6 +45,7 @@ public class demo {
     // goi cac phuong thuc
     BMW_x5.chay();
 
+
    }
 
 }
