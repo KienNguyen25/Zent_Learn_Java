@@ -14,7 +14,6 @@ public class exe3 {
             System.out.println("Day la chuoi palindrome");
         } else {
              System.out.println("Day ko phai la chuoi palindrome");
-
         }
 
     }
