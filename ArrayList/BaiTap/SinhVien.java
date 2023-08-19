@@ -1,4 +1,4 @@
-package ArrayList;
+package ArrayList.BaiTap;
 /**
  * ArrayList2
  */

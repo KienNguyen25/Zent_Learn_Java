@@ -1,0 +1,406 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "demo1",
+            "request": "launch",
+            "mainClass": "ArrayList.demo1",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "ArrayList.demo",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1",
+            "request": "launch",
+            "mainClass": "ArrayList1",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "exe",
+            "request": "launch",
+            "mainClass": "Mang.BT_Mang.exe",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "MangDemo1",
+            "request": "launch",
+            "mainClass": "Mang.MangDemo1",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "MangDemo2",
+            "request": "launch",
+            "mainClass": "Mang.MangDemo2",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "epkieudulieu",
+            "request": "launch",
+            "mainClass": "Ontap.EpKieuDuLieu.epkieudulieu",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "baitap1",
+            "request": "launch",
+            "mainClass": "Ontap.Ham.baitap1",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "baitap2",
+            "request": "launch",
+            "mainClass": "Ontap.Ham.baitap2",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "baitap3",
+            "request": "launch",
+            "mainClass": "Ontap.Ham.baitap3",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "baitap4",
+            "request": "launch",
+            "mainClass": "Ontap.Ham.baitap4",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "demo(1)",
+            "request": "launch",
+            "mainClass": "Ontap.Ham.demo",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "demo(2)",
+            "request": "launch",
+            "mainClass": "Ontap.Opp.demo",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "StringClass",
+            "request": "launch",
+            "mainClass": "Ontap.StringClass.StringClass",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai1_StringClass",
+            "request": "launch",
+            "mainClass": "Ontap.StringClass.bai1_StringClass",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "ex_String",
+            "request": "launch",
+            "mainClass": "Ontap.StringClass.ex_String",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "mainNhanVien",
+            "request": "launch",
+            "mainClass": "Ontap.kethua.CongTy.mainNhanVien",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "testDiem",
+            "request": "launch",
+            "mainClass": "Ontap.kethua.overriding.QuanLyDiem.testDiem",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "textIOFile",
+            "request": "launch",
+            "mainClass": "TextIoFile.textIOFile",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "mainSinhVien",
+            "request": "launch",
+            "mainClass": "ThietKeLopSinhVien.mainSinhVien",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "array_1",
+            "request": "launch",
+            "mainClass": "array_1",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "array_demo",
+            "request": "launch",
+            "mainClass": "array_demo",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "function_demo",
+            "request": "launch",
+            "mainClass": "function_demo",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "nhap_banphim",
+            "request": "launch",
+            "mainClass": "nhap_banphim",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "StudenInformation",
+            "request": "launch",
+            "mainClass": "session_1.exe_1.StudenInformation",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai10",
+            "request": "launch",
+            "mainClass": "session_1.exe_10.bai10",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai11",
+            "request": "launch",
+            "mainClass": "session_1.exe_11.bai11",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "tongHieuTichThuong",
+            "request": "launch",
+            "mainClass": "session_1.exe_2.tongHieuTichThuong",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "BiggerAndSmaller",
+            "request": "launch",
+            "mainClass": "session_1.exe_3.BiggerAndSmaller",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai4",
+            "request": "launch",
+            "mainClass": "session_1.exe_4.bai4",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai5",
+            "request": "launch",
+            "mainClass": "session_1.exe_5.bai5",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai6",
+            "request": "launch",
+            "mainClass": "session_1.exe_6.bai6",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai7",
+            "request": "launch",
+            "mainClass": "session_1.exe_7.bai7",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "ptrBacNhat",
+            "request": "launch",
+            "mainClass": "session_1.exe_8.ptrBacNhat",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai08",
+            "request": "launch",
+            "mainClass": "session_2.exe_08.bai08",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai01",
+            "request": "launch",
+            "mainClass": "session_2.exe_1.bai01",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai02",
+            "request": "launch",
+            "mainClass": "session_2.exe_2.bai02",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai03",
+            "request": "launch",
+            "mainClass": "session_2.exe_3.bai03",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai04",
+            "request": "launch",
+            "mainClass": "session_2.exe_4.bai04",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai_05",
+            "request": "launch",
+            "mainClass": "session_2.exe_5.bai_05",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "dienTichHinhTron",
+            "request": "launch",
+            "mainClass": "session_2.exe_6.dienTichHinhTron",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "chanLe",
+            "request": "launch",
+            "mainClass": "session_2.exe_7.chanLe",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "bai09",
+            "request": "launch",
+            "mainClass": "session_2.exe_9.bai09",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "mainXe",
+            "request": "launch",
+            "mainClass": "session_3.QuanLyXe.mainXe",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "exe1",
+            "request": "launch",
+            "mainClass": "session_4.exe1",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "exe2",
+            "request": "launch",
+            "mainClass": "session_4.exe2",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "exe3",
+            "request": "launch",
+            "mainClass": "session_4.exe3",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "exe4",
+            "request": "launch",
+            "mainClass": "session_4.exe4",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "exe5",
+            "request": "launch",
+            "mainClass": "session_4.exe5",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "exe6",
+            "request": "launch",
+            "mainClass": "session_4.exe6",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "so_sanh",
+            "request": "launch",
+            "mainClass": "so_sanh",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "toantu",
+            "request": "launch",
+            "mainClass": "toantu",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "vong_lap",
+            "request": "launch",
+            "mainClass": "vong_lap",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "vonglap_For",
+            "request": "launch",
+            "mainClass": "vonglap_For",
+            "projectName": "Base Java_a06d4e59"
+        },
+        {
+            "type": "java",
+            "name": "vonglap_While",
+            "request": "launch",
+            "mainClass": "vonglap_While",
+            "projectName": "Base Java_a06d4e59"
+        }
+    ]
+}

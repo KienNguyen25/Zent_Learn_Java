@@ -92,7 +92,7 @@ public class SinhVien {
 
     public void nhapTT(){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Nhap vao thong tin SV");
+        System.out.println("Thong tin SV");
         System.out.println("=============================");
         System.out.print("Nhap ho ten sinh vien: ");
          hoTen = sc.nextLine();
